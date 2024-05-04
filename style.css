@@ -1,0 +1,63 @@
+.dflex{ 
+    display: flex; 
+} 
+.center{ 
+    justify-content: center; 
+    align-items: center; 
+} 
+#gamebox{ 
+    width: 900px; 
+ 
+} 
+body{
+    background-color: #000e36;
+    color: white;
+}
+h1{ 
+    text-align: center; 
+    font-size: 100px; 
+} 
+p{ 
+    font-size: 50px; 
+} 
+h3{
+    font-size: 25px; 
+}
+.home-img img{
+    font-size: 25px; 
+    align-items: center;
+    width: calc(100% - 40px); 
+    box-shadow: 8px 11px 0px 1px black; 
+    border-radius: 15%;
+}
+input{ 
+    font-size: 50px; 
+    padding: 10px 20px; 
+    width: calc(100% - 40px); 
+    box-shadow: 8px 11px 0px 1px black; 
+} 
+.mt{ 
+    margin-top: 100px; 
+} 
+.btn{ 
+    background-color: black; 
+    font-size: 30px; 
+    color: white; 
+    padding: 10px 30px; 
+    cursor: pointer; 
+    box-shadow: 8px 11px 0px 1px rgb(110, 110, 110); 
+} 
+.link{ 
+    font-size: 30px; 
+    color: rgb(0, 0, 0); 
+    padding: 10px 30px; 
+    cursor: pointer; 
+    text-decoration: none; 
+     
+} 
+.logo{ 
+    border: 1px solid black; 
+} 
+nav{ 
+    margin-top: 20px; 
+}
